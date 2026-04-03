@@ -41,20 +41,6 @@ No todo está totalmente concluido, pero cada experimento aporta al aprendizaje.
 
 ---
 
-## 💡 Enfoque
-
-Creo en una idea simple:
-
-- Los datos no generan valor por sí solos.
-- El valor aparece cuando los conectamos con decisiones.
-
-Por eso, cada proyecto o ejemplo busca responder preguntas clave:
-- ¿Qué está pasando?
-- ¿Por qué está pasando?
-- ¿Qué deberíamos hacer al respecto?
-
----
-
 ## 🛠️ Tecnologías utilizadas
 
 - Python (Pandas, NumPy, GeoPandas, Matplotlib)
@@ -62,24 +48,4 @@ Por eso, cada proyecto o ejemplo busca responder preguntas clave:
 - Power BI
 - Jupyter Notebooks
 
----
 
-## 🚀 Sobre mí
-
-Soy Ingeniera Civil Industrial con experiencia en:
-- Desarrollo de sistemas de información
-- Business Intelligence y analítica
-- Transformación digital en distintas industrias
-
-Actualmente me enfoco en:
-- Ciencia de datos aplicada
-- Formación de profesionales en tecnología
-- Apoyo a organizaciones en el uso estratégico de datos
-
----
-
-## 🤝 Conversemos
-
-Si te interesa colaborar, aprender o aplicar datos en tu organización, contáctame por:
-- LinkedIn
-- Email
